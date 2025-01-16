@@ -20,9 +20,11 @@ My journey in life has led me to develop a passion for hacking, automating and s
 | Cybersecurity Awareness | <a href="https://github.com/shootweb/badusb-awareness">BadUSB Awareness</a>
 
 ## Tools
-Throughout the years I've been familiarized with multiple programs and platforms like M365 stack, SalesForce, Remedy, SQL IDEs, Postman, Notepad++, Kali Linux suite, Github, TryHackMe, Hack The Box, AWS, FortiGate FWs, PF Sense, etc.
+Throughout the years I've been familiarized with multiple programs and platforms like M365 stack, SalesForce, Remedy, SQL IDEs, Postman, Notepad++, Kali Linux suite, Git, Github, TryHackMe, Hack The Box, AWS, FortiGate FWs, PF Sense, etc.
 <br>
-Anyways, here are my top 5 go-tos:
+<br>
+
+### Top 5 go-tos:
 
 ### Cybersecurity
 <div>
