@@ -27,7 +27,7 @@ Throughout the years I've been familiarized with multiple programs and platforms
 
 ### Top 5 go-tos:
 
-### Cybersecurity
+### ~~Hacking~~ Cybersecurity
 <div>
     <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
