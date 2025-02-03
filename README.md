@@ -18,7 +18,7 @@ My journey in life has led me to develop a passion for hacking, automating and s
 | Scripting for Pentesting         | <a href="https://github.com/shootweb/Parameter-grabber">Parameter Grabber </a> & <a href="https://github.com/shootweb/XSSnium">XSSnium</a>|
 | Scripting for Reconnaissance | <a href="https://github.com/shootweb/Endpoint_Finder">Endpoint Finder</a> & <a href="https://github.com/shootweb/Sitemapper">Sitemapper </a>|
 | Task Automation  | <a href="https://github.com/shootweb/fancy_job">Github Updater</a> (forked)|
-| Cybersecurity Awareness | <a href="https://github.com/shootweb/badusb-awareness">BadUSB Awareness</a>
+| Cybersecurity Awareness | <a href="https://github.com/shootweb/badusb-awareness">BadUSB Awareness</a> & <a href="https://github.com/shootweb/Hollywood-Hacking">Hollywood Hacking</a>
 | Confidentiality Scripting | <a href="https://github.com/shootweb/Deadmans_Switch">Deadman's Switch</a>
 
 ## Tools
