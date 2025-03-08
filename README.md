@@ -15,7 +15,7 @@ My journey in life has led me to develop a passion for hacking, automating and s
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/users/shootweb/projects/1/views/1">Purple Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/users/shootweb/projects/1/views/1">Purple Lab</a>|
 | Red Team Excercises      | <a href="https://github.com/users/shootweb/projects/1/views/1">Purple Lab</a>|
-| Scripting for Pentesting         | <a href="https://github.com/shootweb/Parameter-grabber">Parameter Grabber </a> & <a href="https://github.com/shootweb/XSSnium">XSSnium</a>|
+| Scripting for Pentesting         |<a href="https://github.com/shootweb/XSS_Hunt">XSS Hunt</a>, <a href="https://github.com/shootweb/Parameter-grabber">Parameter Grabber </a> & <a href="https://github.com/shootweb/XSSnium">XSSnium</a>|
 | Scripting for Reconnaissance | <a href="https://github.com/shootweb/Endpoint_Finder">Endpoint Finder</a> & <a href="https://github.com/shootweb/Sitemapper">Sitemapper </a>|
 | Task Automation  | <a href="https://github.com/shootweb/fancy_job">Github Updater</a> (forked)|
 | Cybersecurity Awareness | <a href="https://github.com/shootweb/badusb-awareness">BadUSB Awareness</a> & <a href="https://github.com/shootweb/Hollywood-Hacking">Hollywood Hacking</a>
