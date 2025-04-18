@@ -20,6 +20,7 @@ My journey in life has led me to develop a passion for hacking, automating and s
 | Task Automation  | <a href="https://github.com/shootweb/fancy_job">Github Updater</a> (forked)|
 | Cybersecurity Awareness | <a href="https://github.com/shootweb/badusb-awareness">BadUSB Awareness</a> & <a href="https://github.com/shootweb/Hollywood-Hacking">Hollywood Hacking</a>
 | Confidentiality Scripting | <a href="https://github.com/shootweb/Deadmans_Switch">Deadman's Switch</a>
+| Cyber Threat Intelligence | <a href="https://github.com/shootweb/AlienVaultOTX-Scraper">AlienVaultOTX Scraper</a>
 
 ## Tools
 Throughout the years I've been familiarized with multiple programs and platforms like M365 stack, SalesForce, Remedy, SQL IDEs, Postman, Notepad++, Kali Linux suite, Git, Github, TryHackMe, Hack The Box, AWS, FortiGate FWs, PF Sense, etc.
