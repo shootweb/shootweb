@@ -5,22 +5,21 @@
 
 
 ## About Me
-I am a graduate student with a profound interest in technology, with experience and dedication for IT & Cybersecurity.
+I am a graduate student with a profound interest in technology, with experience and dedication for IT & Cybersecurity. Currently working as a Penetration Tester.
 My journey in life has led me to develop a passion for hacking, automating and setting up servers, and I am specifically aiming to join red or green team operations.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/users/shootweb/projects/1/views/1">Purple Lab (Under maintenance)</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/users/shootweb/projects/1/views/1">Purple Lab (Under maintenance)</a>|
 | Red Team Excercises      | <a href="https://github.com/users/shootweb/projects/1/views/1">Purple Lab (Under maintenance)</a>|
-| Scripting for Pentesting         |<a href="https://github.com/shootweb/XSS_Hunt">XSS Hunt</a>, <a href="https://github.com/shootweb/Parameter-grabber">Parameter Grabber </a> & <a href="https://github.com/shootweb/XSSnium">XSSnium</a>|
+| Scripting for Pentesting         |<a href="https://github.com/shootweb/401-403-bypasser">401/403 Bypasser</a>, <a href="https://github.com/shootweb/Parameter-grabber">Parameter Grabber </a> & <a href="https://github.com/shootweb/XSSnium">XSSnium</a>|
 | Scripting for Reconnaissance | <a href="https://github.com/shootweb/Endpoint_Finder">Endpoint Finder</a> & <a href="https://github.com/shootweb/Sitemapper">Sitemapper </a>|
 | Task Automation  | <a href="https://github.com/shootweb/fancy_job">Github Updater</a> (forked)|
 | Cybersecurity Awareness | <a href="https://github.com/shootweb/badusb-awareness">BadUSB Awareness</a> & <a href="https://github.com/shootweb/Hollywood-Hacking">Hollywood Hacking</a>
 | Confidentiality Scripting | <a href="https://github.com/shootweb/Deadmans_Switch">Deadman's Switch</a>
 | Cyber Threat Intelligence | <a href="https://github.com/shootweb/AlienVaultOTX-Scraper">AlienVaultOTX Scraper</a>
+| XSS Testing Suite | <a href="https://github.com/shootweb/ReconXSS">ReconXSS</a>
 
 ## Tools
 Throughout the years I've been familiarized with multiple programs and platforms like M365 stack, SalesForce, Remedy, SQL IDEs, Postman, Notepad++, Visual Studio Code, Kali Linux suite, Git (& Github), TryHackMe, Hack The Box, AWS, FortiGate FWs, PF Sense, FreshTomato firmware, etc.
