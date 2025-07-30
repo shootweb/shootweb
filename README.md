@@ -6,7 +6,8 @@
 
 ## About Me
 I am a graduate student with a profound interest in technology, with experience and dedication for IT & Cybersecurity. Currently working as a Penetration Tester.
-My journey in life has led me to develop a passion for hacking, automating and setting up servers, and I am specifically aiming to join red or green team operations.
+My journey in life has led me to develop a passion for hacking and tinkering with things. <br>
+I'm the type of guy that'll ask itself "how can I make my toaster do my taxes?" and actually try doing it.
 
 ## Skills
 
@@ -20,6 +21,7 @@ My journey in life has led me to develop a passion for hacking, automating and s
 | Confidentiality Scripting | <a href="https://github.com/shootweb/Deadmans_Switch">Deadman's Switch</a>
 | Cyber Threat Intelligence | <a href="https://github.com/shootweb/AlienVaultOTX-Scraper">AlienVaultOTX Scraper</a>
 | XSS Testing Suite | <a href="https://github.com/shootweb/ReconXSS">ReconXSS</a>
+| Proof Of Concept | <a href="https://github.com/shootweb/Clickjacking-PoC">Clickjacking PoC</a>
 
 ## Tools
 Throughout the years I've been familiarized with multiple programs and platforms like M365 stack, SalesForce, Remedy, SQL IDEs, Postman, Notepad++, Visual Studio Code, Kali Linux suite, Git (& Github), TryHackMe, Hack The Box, AWS, FortiGate FWs, PF Sense, FreshTomato firmware, etc.
