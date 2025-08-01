@@ -14,8 +14,8 @@ I'm the type of guy that'll ask itself "how can I make my toaster do my taxes?" 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Red Team Excercises      | <a href="https://github.com/users/shootweb/projects/1/views/1">Purple Lab (Under maintenance)</a>|
-| Scripting for Pentesting         |<a href="https://github.com/shootweb/401-403-bypasser">401/403 Bypasser</a>, <a href="https://github.com/shootweb/Parameter-grabber">Parameter Grabber </a> & <a href="https://github.com/shootweb/XSSnium">XSSnium</a>|
-| Scripting for Reconnaissance | <a href="https://github.com/shootweb/Endpoint_Finder">Endpoint Finder</a> & <a href="https://github.com/shootweb/Sitemapper">Sitemapper </a>|
+| Scripting for Pentesting         |<a href="https://github.com/shootweb/401-403-bypasser">401/403 Bypasser</a>, <a href="https://github.com/shootweb/Kerberos-Detection">Kerberos Detection </a> & <a href="https://github.com/shootweb/XSSnium">XSSnium</a>|
+| Scripting for Reconnaissance | <a href="https://github.com/shootweb/Endpoint_Finder">Endpoint Finder</a>, <a href="https://github.com/shootweb/Parameter-grabber">Parameter Grabber </a> & <a href="https://github.com/shootweb/Sitemapper">Sitemapper </a>|
 | Task Automation  | <a href="https://github.com/shootweb/fancy_job">Github Updater</a> (forked)|
 | Cybersecurity Awareness | <a href="https://github.com/shootweb/badusb-awareness">BadUSB Awareness</a> & <a href="https://github.com/shootweb/Hollywood-Hacking">Hollywood Hacking</a>
 | Confidentiality Scripting | <a href="https://github.com/shootweb/Deadmans_Switch">Deadman's Switch</a>
